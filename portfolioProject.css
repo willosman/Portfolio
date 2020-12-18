@@ -123,7 +123,7 @@ text-align: center;
 }
 
 .card-img-top:hover{
-  transform:scale(1.1)
+  transform:scale(1)
 }
 .card-body{
     background-color: #becac6;
